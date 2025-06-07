@@ -21,7 +21,7 @@ These values represent monthly averages, not totals.
 ### Key Observations
 
 1. **Inverse Trend Pattern**  
-   - When **approved amounts increase**, the **dollars used** tend to dip — and vice versa.
+   - When **approved amounts increase**, the **dollars used** tend to dip and vice versa.
    - This consistent inverse movement suggests a reactive relationship.
 
 2. **Possible Business Strategy: Risk Control**  
@@ -38,7 +38,7 @@ These values represent monthly averages, not totals.
 
 > **“Customer behavior may be influencing future approval decisions. Higher dollar usage could be triggering conservative approval strategies.”**
 
-This highlights an intelligent, data-driven credit policy, and sets the stage for further lag-based correlation or segmentation analysis.
+This might be a data-driven credit policy from the company's side and sets the stage for further lag-based correlation or segmentation analysis.
 
 ---
 
