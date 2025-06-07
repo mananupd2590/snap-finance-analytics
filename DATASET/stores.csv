@@ -1,0 +1,251 @@
+,store,start_dt,state,size,industry
+0,store_0,2020-12-17 17:47:23,Iowa,Medium,Healthcare
+1,store_1,2020-08-02 14:09:39,Louisiana,Small,Retail
+2,store_2,2021-05-28 14:15:26,Tennessee,Medium,Transportation
+3,store_3,2020-01-01 15:30:22,Minnesota,Medium,Retail
+4,store_4,2020-08-24 15:04:57,Maine,Small,Education
+5,store_5,2020-01-07 08:47:53,Ohio,Small,Healthcare
+6,store_6,2020-05-17 19:46:29,Idaho,Medium,Construction
+7,store_7,2021-10-25 07:03:38,Texas,Enterprise,Energy
+8,store_8,2020-12-01 17:20:28,Idaho,Medium,Education
+9,store_9,2021-06-06 00:06:05,Kansas,Medium,Construction
+10,store_10,2020-08-08 09:23:42,South Carolina,Medium,Hospitality
+11,store_11,2020-01-11 22:32:37,South Dakota,Medium,Energy
+12,store_12,2021-01-20 17:53:26,New Jersey,Small,Finance
+13,store_13,2021-08-19 09:08:58,Nevada,Small,Healthcare
+14,store_14,2021-02-15 01:02:31,North Carolina,Small,Energy
+15,store_15,2021-11-29 08:14:09,Idaho,Medium,Healthcare
+16,store_16,2021-01-21 20:22:47,Alaska,Medium,Education
+17,store_17,2020-05-29 11:07:57,Mississippi,Small,Retail
+18,store_18,2020-09-21 07:27:12,Maine,Medium,Hospitality
+19,store_19,2020-04-07 00:02:14,Alaska,Medium,Manufacturing
+20,store_20,2020-04-11 04:06:11,Wyoming,Medium,Technology
+21,store_21,2021-09-05 17:11:35,Virginia,Medium,Transportation
+22,store_22,2021-01-15 12:36:34,Indiana,Medium,Transportation
+23,store_23,2021-09-01 16:08:53,Delaware,Medium,Transportation
+24,store_24,2020-12-06 14:27:39,Maryland,Small,Hospitality
+25,store_25,2021-08-29 16:54:06,Washington,Enterprise,Healthcare
+26,store_26,2021-05-31 20:14:00,Delaware,Small,Manufacturing
+27,store_27,2020-01-03 01:08:01,Wisconsin,Medium,Manufacturing
+28,store_28,2021-08-27 01:00:44,Wyoming,Medium,Finance
+29,store_29,2020-04-13 20:48:10,New York,Medium,Construction
+30,store_30,2020-01-24 18:10:22,Kentucky,Medium,Healthcare
+31,store_31,2020-03-09 04:02:40,Indiana,Medium,Education
+32,store_32,2021-03-09 13:56:59,Iowa,Medium,Construction
+33,store_33,2021-10-11 22:00:20,Rhode Island,Medium,Education
+34,store_34,2020-05-22 07:15:57,New Jersey,Small,Finance
+35,store_35,2021-01-12 13:39:32,Nevada,Enterprise,Manufacturing
+36,store_36,2021-05-01 20:10:53,Maine,Medium,Finance
+37,store_37,2021-08-25 11:24:07,Arizona,Medium,Finance
+38,store_38,2020-04-24 02:18:48,Alaska,Enterprise,Education
+39,store_39,2021-01-04 21:58:44,Nebraska,Enterprise,Finance
+40,store_40,2020-04-22 06:44:59,Maryland,Medium,Transportation
+41,store_41,2020-01-18 15:42:48,Oregon,Medium,Hospitality
+42,store_42,2021-02-22 10:33:43,Tennessee,Small,Transportation
+43,store_43,2020-06-06 13:56:29,Michigan,Medium,Manufacturing
+44,store_44,2021-07-30 22:29:01,South Carolina,Medium,Manufacturing
+45,store_45,2020-04-18 05:09:12,Arkansas,Medium,Finance
+46,store_46,2020-02-24 05:51:08,Illinois,Small,Technology
+47,store_47,2021-09-26 03:48:46,Rhode Island,Medium,Hospitality
+48,store_48,2020-01-05 11:03:36,Oklahoma,Enterprise,Manufacturing
+49,store_49,2020-11-06 16:18:23,Wisconsin,Small,Retail
+50,store_50,2020-09-30 14:40:16,Kentucky,Medium,Healthcare
+51,store_51,2020-11-17 06:14:24,Delaware,Medium,Technology
+52,store_52,2020-06-20 02:02:15,Delaware,Small,Retail
+53,store_53,2020-10-13 06:47:35,Massachusetts,Medium,Transportation
+54,store_54,2020-09-28 14:27:58,Ohio,Medium,Education
+55,store_55,2020-08-16 16:12:58,Oklahoma,Medium,Construction
+56,store_56,2021-12-13 10:39:34,Michigan,Small,Construction
+57,store_57,2020-09-29 06:09:54,Hawaii,Medium,Transportation
+58,store_58,2021-12-16 12:17:10,Maryland,Medium,Finance
+59,store_59,2021-05-03 08:48:21,Idaho,Medium,Healthcare
+60,store_60,2020-06-25 16:33:08,Rhode Island,Medium,Energy
+61,store_61,2020-02-20 19:28:38,South Dakota,Medium,Transportation
+62,store_62,2021-08-08 10:28:28,Alaska,Small,Construction
+63,store_63,2020-02-16 01:00:09,Washington,Small,Healthcare
+64,store_64,2021-12-29 03:43:57,North Dakota,Small,Technology
+65,store_65,2020-02-24 14:29:43,Rhode Island,Small,Transportation
+66,store_66,2020-09-19 16:45:40,Maryland,Small,Retail
+67,store_67,2020-11-05 13:43:22,Florida,Medium,Manufacturing
+68,store_68,2020-03-05 06:13:33,Oklahoma,Medium,Technology
+69,store_69,2021-07-08 01:45:08,South Carolina,Small,Technology
+70,store_70,2021-05-18 09:52:10,Vermont,Medium,Construction
+71,store_71,2020-07-13 13:59:14,New Jersey,Small,Healthcare
+72,store_72,2020-02-22 19:57:44,Missouri,Medium,Hospitality
+73,store_73,2020-01-01 01:23:01,Illinois,Small,Retail
+74,store_74,2020-10-15 04:59:45,Illinois,Small,Manufacturing
+75,store_75,2020-09-15 14:50:19,South Dakota,Medium,Manufacturing
+76,store_76,2021-05-10 08:56:28,Arkansas,Medium,Education
+77,store_77,2021-12-19 09:25:52,Michigan,Small,Transportation
+78,store_78,2020-03-26 08:04:21,Kansas,Enterprise,Transportation
+79,store_79,2020-06-02 10:12:43,Illinois,Medium,Healthcare
+80,store_80,2020-08-23 17:19:08,Nebraska,Small,Transportation
+81,store_81,2021-02-28 13:31:47,Maryland,Enterprise,Education
+82,store_82,2020-02-02 11:08:32,Vermont,Medium,Hospitality
+83,store_83,2020-02-01 05:25:52,Nebraska,Enterprise,Manufacturing
+84,store_84,2020-10-14 04:38:27,Arizona,Medium,Retail
+85,store_85,2021-08-23 08:31:31,Indiana,Medium,Energy
+86,store_86,2021-09-10 14:19:46,Pennsylvania,Medium,Manufacturing
+87,store_87,2020-05-25 14:05:00,Alabama,Enterprise,Energy
+88,store_88,2020-06-09 00:44:41,Wisconsin,Medium,Transportation
+89,store_89,2021-03-27 23:48:39,Tennessee,Medium,Transportation
+90,store_90,2020-09-26 17:54:10,Ohio,Medium,Hospitality
+91,store_91,2020-06-28 01:52:37,Vermont,Medium,Hospitality
+92,store_92,2020-02-26 12:39:53,Florida,Small,Healthcare
+93,store_93,2021-04-02 01:28:46,North Carolina,Medium,Transportation
+94,store_94,2021-04-04 21:21:42,Oklahoma,Enterprise,Hospitality
+95,store_95,2021-07-30 13:34:49,Maryland,Enterprise,Healthcare
+96,store_96,2020-05-10 13:20:33,Iowa,Medium,Education
+97,store_97,2021-10-28 19:49:10,New York,Small,Construction
+98,store_98,2021-04-22 11:18:57,North Carolina,Medium,Hospitality
+99,store_99,2020-08-19 21:54:48,Illinois,Small,Energy
+100,store_100,2020-03-24 13:43:44,Delaware,Small,Technology
+101,store_101,2020-05-17 19:14:58,Vermont,Medium,Hospitality
+102,store_102,2021-12-26 05:59:09,Arizona,Small,Energy
+103,store_103,2021-01-19 10:27:15,New Jersey,Small,Manufacturing
+104,store_104,2021-08-05 01:19:41,North Dakota,Small,Construction
+105,store_105,2020-05-14 19:09:22,Vermont,Medium,Technology
+106,store_106,2020-03-17 18:31:34,West Virginia,Medium,Education
+107,store_107,2021-11-21 13:11:04,New Jersey,Small,Technology
+108,store_108,2020-02-11 14:01:40,South Dakota,Medium,Energy
+109,store_109,2021-08-05 09:23:57,Washington,Small,Healthcare
+110,store_110,2020-05-30 01:43:16,Arkansas,Small,Retail
+111,store_111,2020-01-02 11:16:29,New Mexico,Medium,Education
+112,store_112,2021-05-09 11:27:39,Nebraska,Medium,Healthcare
+113,store_113,2021-09-12 07:07:06,Hawaii,Medium,Healthcare
+114,store_114,2020-12-26 04:27:47,Georgia,Medium,Retail
+115,store_115,2020-08-28 22:07:33,Texas,Medium,Education
+116,store_116,2020-09-11 12:35:57,Florida,Medium,Technology
+117,store_117,2020-05-03 16:14:26,Minnesota,Medium,Transportation
+118,store_118,2021-04-14 21:50:22,South Dakota,Small,Energy
+119,store_119,2020-05-05 17:05:52,Ohio,Small,Finance
+120,store_120,2020-09-20 14:49:08,West Virginia,Enterprise,Healthcare
+121,store_121,2021-04-02 03:14:25,Virginia,Medium,Education
+122,store_122,2021-12-21 03:13:16,New York,Medium,Construction
+123,store_123,2021-01-13 20:48:59,Wisconsin,Small,Construction
+124,store_124,2021-02-13 18:18:49,Nevada,Medium,Manufacturing
+125,store_125,2020-06-10 21:43:47,New York,Small,Education
+126,store_126,2020-08-13 00:50:59,Maryland,Small,Retail
+127,store_127,2021-10-15 03:53:54,New Mexico,Medium,Healthcare
+128,store_128,2021-11-27 04:48:29,Ohio,Small,Technology
+129,store_129,2020-07-23 07:02:40,California,Small,Hospitality
+130,store_130,2021-04-15 06:04:58,Michigan,Medium,Retail
+131,store_131,2020-12-15 21:40:36,Mississippi,Medium,Transportation
+132,store_132,2020-09-22 23:23:48,New Hampshire,Small,Education
+133,store_133,2020-11-13 15:43:53,Iowa,Medium,Education
+134,store_134,2020-04-17 06:26:10,West Virginia,Medium,Construction
+135,store_135,2020-05-25 10:28:23,Mississippi,Medium,Education
+136,store_136,2020-10-27 16:51:26,Connecticut,Medium,Education
+137,store_137,2020-05-04 04:09:35,Virginia,Small,Retail
+138,store_138,2021-02-17 23:43:22,Missouri,Medium,Hospitality
+139,store_139,2021-11-18 08:45:33,Arkansas,Small,Healthcare
+140,store_140,2020-01-04 13:32:30,Ohio,Medium,Energy
+141,store_141,2021-11-20 19:19:37,North Dakota,Medium,Finance
+142,store_142,2021-08-08 22:54:24,Michigan,Enterprise,Manufacturing
+143,store_143,2020-09-22 19:31:39,Arkansas,Small,Energy
+144,store_144,2021-01-11 21:34:05,Arizona,Small,Construction
+145,store_145,2021-03-20 12:39:26,Florida,Medium,Education
+146,store_146,2020-03-26 02:56:59,Kentucky,Medium,Manufacturing
+147,store_147,2021-08-17 16:03:56,Oregon,Medium,Construction
+148,store_148,2021-06-29 19:53:16,Alabama,Enterprise,Finance
+149,store_149,2020-03-27 01:46:44,North Carolina,Medium,Retail
+150,store_150,2020-02-27 02:47:53,Oregon,Small,Technology
+151,store_151,2020-02-08 21:18:21,Delaware,Medium,Transportation
+152,store_152,2020-08-06 14:07:59,Nevada,Medium,Transportation
+153,store_153,2021-11-25 11:16:57,Kentucky,Medium,Healthcare
+154,store_154,2021-05-09 10:22:34,Colorado,Medium,Energy
+155,store_155,2021-10-20 05:46:04,Michigan,Medium,Finance
+156,store_156,2020-07-22 09:40:00,North Dakota,Enterprise,Retail
+157,store_157,2020-07-31 10:55:19,Hawaii,Enterprise,Hospitality
+158,store_158,2021-05-04 06:43:27,Arkansas,Medium,Manufacturing
+159,store_159,2020-04-28 09:39:07,Iowa,Medium,Hospitality
+160,store_160,2020-09-03 12:39:23,Missouri,Medium,Transportation
+161,store_161,2020-12-16 10:06:59,Rhode Island,Medium,Education
+162,store_162,2020-06-25 06:30:31,Kentucky,Medium,Finance
+163,store_163,2021-12-25 09:57:57,North Dakota,Medium,Technology
+164,store_164,2021-10-28 16:19:27,Florida,Medium,Hospitality
+165,store_165,2021-09-12 12:29:49,Illinois,Small,Energy
+166,store_166,2020-08-01 16:05:42,Arizona,Enterprise,Retail
+167,store_167,2021-12-13 10:31:35,New Hampshire,Medium,Transportation
+168,store_168,2021-11-06 22:33:10,Alaska,Small,Technology
+169,store_169,2021-04-03 19:20:42,Utah,Medium,Hospitality
+170,store_170,2021-08-02 06:19:43,Rhode Island,Medium,Hospitality
+171,store_171,2020-01-28 10:05:10,Utah,Medium,Hospitality
+172,store_172,2020-06-25 21:59:51,Kansas,Medium,Finance
+173,store_173,2021-12-19 15:38:15,Utah,Small,Transportation
+174,store_174,2021-07-28 18:47:32,South Dakota,Small,Transportation
+175,store_175,2020-08-08 14:58:09,Rhode Island,Medium,Construction
+176,store_176,2020-12-23 11:48:52,New Hampshire,Medium,Construction
+177,store_177,2021-08-02 06:26:49,Massachusetts,Enterprise,Healthcare
+178,store_178,2021-05-19 19:36:22,Montana,Small,Construction
+179,store_179,2021-04-16 22:54:04,Minnesota,Medium,Technology
+180,store_180,2021-09-07 08:39:41,South Dakota,Medium,Healthcare
+181,store_181,2020-11-21 13:17:31,Louisiana,Small,Finance
+182,store_182,2020-11-13 22:05:47,South Carolina,Small,Energy
+183,store_183,2021-11-16 23:51:26,Maine,Small,Finance
+184,store_184,2020-10-16 00:06:37,California,Medium,Energy
+185,store_185,2020-12-13 01:38:47,North Carolina,Medium,Retail
+186,store_186,2020-01-07 15:54:17,North Carolina,Medium,Hospitality
+187,store_187,2020-07-16 14:24:47,Pennsylvania,Small,Hospitality
+188,store_188,2020-02-19 14:18:22,Utah,Medium,Manufacturing
+189,store_189,2021-02-15 17:50:26,Oklahoma,Enterprise,Retail
+190,store_190,2020-12-11 12:19:29,Virginia,Small,Healthcare
+191,store_191,2021-06-11 09:12:26,Oregon,Medium,Retail
+192,store_192,2021-02-06 05:19:39,Arizona,Medium,Healthcare
+193,store_193,2021-05-05 06:40:15,South Dakota,Medium,Healthcare
+194,store_194,2020-01-28 16:57:56,Connecticut,Medium,Finance
+195,store_195,2021-01-26 12:41:04,New Jersey,Enterprise,Energy
+196,store_196,2021-10-19 09:28:48,North Dakota,Small,Transportation
+197,store_197,2020-01-06 04:01:52,California,Medium,Hospitality
+198,store_198,2021-08-18 19:22:03,North Dakota,Enterprise,Education
+199,store_199,2021-08-12 04:49:17,Louisiana,Small,Education
+200,store_200,2020-10-19 09:18:26,South Dakota,Medium,Manufacturing
+201,store_201,2021-10-19 23:20:19,North Carolina,Medium,Finance
+202,store_202,2021-12-08 21:31:01,Idaho,Medium,Education
+203,store_203,2020-01-28 20:38:00,Massachusetts,Medium,Transportation
+204,store_204,2021-10-17 14:43:39,Wisconsin,Medium,Energy
+205,store_205,2021-07-11 05:05:21,Nebraska,Small,Transportation
+206,store_206,2021-02-18 04:09:06,Kentucky,Small,Technology
+207,store_207,2021-06-29 02:17:13,Colorado,Medium,Manufacturing
+208,store_208,2020-12-30 03:15:01,Colorado,Small,Healthcare
+209,store_209,2020-02-28 07:57:19,Colorado,Medium,Energy
+210,store_210,2021-11-30 09:25:16,Florida,Medium,Education
+211,store_211,2021-03-28 21:48:52,Ohio,Medium,Manufacturing
+212,store_212,2021-07-28 15:00:40,California,Medium,Manufacturing
+213,store_213,2020-11-13 01:36:14,Michigan,Medium,Energy
+214,store_214,2021-03-03 18:51:51,New Jersey,Medium,Education
+215,store_215,2021-06-07 18:36:38,New York,Small,Manufacturing
+216,store_216,2021-05-15 08:08:46,Iowa,Small,Transportation
+217,store_217,2021-09-04 03:05:58,Nebraska,Medium,Technology
+218,store_218,2021-06-01 15:08:20,New Jersey,Medium,Manufacturing
+219,store_219,2020-10-16 12:25:09,Arkansas,Small,Hospitality
+220,store_220,2021-11-24 19:16:40,Kansas,Medium,Finance
+221,store_221,2021-10-01 16:44:43,Oregon,Small,Energy
+222,store_222,2020-06-19 23:26:31,Hawaii,Small,Manufacturing
+223,store_223,2020-02-19 16:17:58,Colorado,Medium,Technology
+224,store_224,2021-07-19 18:30:31,Mississippi,Medium,Retail
+225,store_225,2021-08-07 16:11:16,Massachusetts,Enterprise,Hospitality
+226,store_226,2020-07-24 02:58:53,Wyoming,Small,Healthcare
+227,store_227,2021-05-29 08:16:27,South Dakota,Small,Transportation
+228,store_228,2020-05-18 16:59:34,New York,Enterprise,Education
+229,store_229,2021-11-10 09:33:06,Florida,Medium,Hospitality
+230,store_230,2021-02-25 15:54:25,Minnesota,Medium,Education
+231,store_231,2020-07-11 16:16:00,Illinois,Medium,Healthcare
+232,store_232,2020-06-19 17:24:14,Arizona,Small,Healthcare
+233,store_233,2021-02-14 10:54:16,South Carolina,Medium,Hospitality
+234,store_234,2020-05-16 16:29:58,Arkansas,Small,Healthcare
+235,store_235,2021-12-21 03:34:49,Alaska,Medium,Finance
+236,store_236,2021-09-13 09:58:20,Florida,Small,Finance
+237,store_237,2021-09-04 21:34:01,Oregon,Medium,Hospitality
+238,store_238,2021-03-31 16:13:19,Missouri,Medium,Technology
+239,store_239,2020-10-20 08:18:29,Kansas,Medium,Technology
+240,store_240,2020-01-10 05:41:27,Kentucky,Medium,Finance
+241,store_241,2020-01-19 19:12:55,Pennsylvania,Small,Manufacturing
+242,store_242,2021-11-19 09:40:27,North Dakota,Medium,Hospitality
+243,store_243,2020-01-24 11:13:22,Connecticut,Enterprise,Technology
+244,store_244,2020-09-08 20:38:21,Nevada,Small,Hospitality
+245,store_245,2020-05-20 21:29:20,Delaware,Small,Technology
+246,store_246,2020-03-26 14:53:08,Kentucky,Medium,Technology
+247,store_247,2020-07-13 06:17:35,Hawaii,Medium,Technology
+248,store_248,2021-06-06 17:12:59,South Dakota,Small,Retail
+249,store_249,2021-12-26 00:42:36,West Virginia,Enterprise,Technology
