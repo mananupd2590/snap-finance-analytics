@@ -1,11 +1,11 @@
-# 📊 Task 1 – Application Funnel Analysis at Snap Finance
+# Task 1 – Application Funnel Analysis at Snap Finance
 
-## 🧠 Objective
+## Objective
 The goal was to analyze the lifecycle of customer applications — from applying, to getting approved, to actually using the financing product. This flow represents a typical **application funnel**, and our job was to uncover how well it's performing.
 
 ---
 
-## ✅ Why These Visualizations Were Chosen
+## Why These Visualizations Were Chosen
 Instead of showing too many charts and confusing stakeholders, I focused on **two simple but powerful visualizations**:
 
 1. A **conversion funnel bar chart**
@@ -17,14 +17,14 @@ These two views help answer the most important questions:
 
 ---
 
-## 📊 Visualization 1: Application Funnel Bar Chart
+## Visualization 1: Application Funnel Bar Chart
 
 This chart compares:
 - **Total Applications** — customers who applied
 - **Approved Applications** — those who got approved
 - **Used Applications** — customers who actually used the financing
 
-### 🧠 Key Insights:
+### Key Insights:
 - There is a clear **funnel drop-off** between each stage.
 - Around **50% of applicants get approved**, which shows decent underwriting efficiency.
 - However, **only a small portion of approved customers actually use the product**, indicating a potential **leak in the funnel**.
@@ -32,11 +32,11 @@ This chart compares:
 
 ---
 
-## 📈 Visualization 2: Weekly & Monthly Trend Charts
+## Visualization 2: Weekly & Monthly Trend Charts
 
 These line charts show how applications behave **over time** — one by **week** and one by **month**.
 
-### 🧠 Key Insights:
+### Key Insights:
 - **Weekly Trend** shows short-term fluctuations, indicating possible reaction to campaigns or pay cycles.
 - **Monthly Trend** smooths this data and shows a consistent flow of applications.
 - Both trends confirm that while **applications and approvals stay steady**, **usage remains much lower** in every time period.
@@ -44,7 +44,7 @@ These line charts show how applications behave **over time** — one by **week**
 
 ---
 
-## 💬 Final Thoughts
+## Final Thoughts
 
 These charts were kept intentionally simple — clean, clear, and useful for both technical and non-technical teams. They directly reflect:
 - **Conversion efficiency**
