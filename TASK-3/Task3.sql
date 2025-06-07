@@ -1,3 +1,4 @@
+Create table store_summary as
 select  
     cast(replace(store, 'store_', '') as unsigned) as store_number,
     count(submit_date) as total_applications,
