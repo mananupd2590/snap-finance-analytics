@@ -1,5 +1,5 @@
 # Task 1 – Application Funnel Analysis at Snap Finance
-
+![Funnel Chart](./Application_funnel_by_total.png)
 ## Objective
 The goal was to analyze the lifecycle of customer applications — from applying, to getting approved, to actually using the financing product. This flow represents a typical **application funnel**, and our job was to uncover how well it's performing.
 
@@ -18,6 +18,9 @@ These two views help answer the most important questions:
 ---
 
 ## Visualization 1: Application Funnel Bar Chart
+
+![Funnel Chart](./application_funnel_monthly.png)
+![Funnel Chart](./application_funnel_weekly.png)
 
 This chart compares:
 - **Total Applications** — customers who applied
