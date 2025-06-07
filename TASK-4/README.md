@@ -1,4 +1,5 @@
-# Task 4 – Campaign Performance & ROI Analysis
+# Task 4 – Create a view with a graph to compare the used dollars amount by Marketing name, and color by spend amount.![image](https://github.com/user-attachments/assets/94121221-de06-454f-8a2a-a651e23107fa)
+
 
 ---
 
@@ -39,7 +40,7 @@ This analysis would help identify **which campaigns are worth scaling**, which a
 ### 2. Total Spend v/s Money Used for that Campaign
 > Shows how effectively each campaign turned marketing dollars into actual usage.
 
-![Conversion Rate by Campaign](totalspend vs_dollars_used.png)
+![Conversion Rate by Campaign](totalspend_vs_dollars_used.png)
 
 ---
 
