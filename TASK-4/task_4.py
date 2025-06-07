@@ -13,7 +13,7 @@ engine = create_engine("mysql+pymysql://root:abc1234@localhost:0000/snap_fin")
 conn = engine.connect()
 
 # Load SQL Query and read from .sql file
-with open('path/Task4.sql', 'r') as file:
+with open('/Task4.sql', 'r') as file:
     sql_query = file.read()
 df = pd.read_sql(sql_query, conn)
 
