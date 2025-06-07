@@ -1,4 +1,4 @@
-# Task 4 – Create a view with a graph to compare the used dollars amount by Marketing name, and color by spend amount.![image](https://github.com/user-attachments/assets/94121221-de06-454f-8a2a-a651e23107fa)
+# Task 4 – Create a view with a graph to compare the used dollars amount by Marketing name, and color by spend amount.
 
 
 ---
