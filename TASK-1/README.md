@@ -35,7 +35,7 @@ This chart compares:
 
 ## Visualization 2: Weekly & Monthly Trend Charts
 ![Funnel Chart](./application_funnel_monthly.png)
-![Funnel Chart](./application_funnel_weekly.png)
+
 
 These line charts show how applications behave **over time** one by **week** and one by **month**.
 
