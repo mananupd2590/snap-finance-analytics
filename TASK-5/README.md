@@ -2,7 +2,7 @@
 
 ### So what was something interesting I that I found?
 
-![Conversion Rate by Campaign](State_vs_Used_Amount.png)
+![State vs Amount Used](State_vs_Used_Amount.jpeg)
 
 
 While exploring the dataset, I came across an unexpected trend worth sharing.
