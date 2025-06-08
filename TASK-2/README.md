@@ -44,18 +44,18 @@ Again! These values represent monthly averages, not totals.
    - This could be a credit risk mitigation strategy to **avoid customer overleveraging** or this could be **Adaptive Credit Behavior**  where approval limits may not be static.
    - Instead, the company could be using **real-time usage data** to **adjust approvals dynamically**, possibly using automated thresholds.
 
-2. ** August & September Spikes **
+2. **August & September Spikes**
    - This could reflect seasonal needs, maybe back-to-school repairs, or AC fixes or car repairs due to breakdown during summers or it coulf br "pre-winter prep" for the cars. There can be a lot of inferences made from this. 
 
-3. ** Usage Drop During Low Approval ** Around July 2022 and July 2023
+3. **Usage Drop During Low Approval** Around July 2022 and July 2023
    - Drop in average approvals are obsereved during this period which indicates possibly a deliberate credit tightening period.
    - This is usually the time when companies deal with quarterly or mid-year portfolio reviews where for example here we would want to get more conservative.
 
-4. ** Average approvals remains stagnant **
+4. **Average approvals remains stagnant**
    - The average approved amount consistently hovers around the $3,100–$3,150 mark.
    - This might say that the company has a predefined approval cap or scoring threshold which may be a part of its internal risk policies.
   
-5. ** No Strong Correlation Between Application Volume and Approval/Usage **
+5. **No Strong Correlation Between Application Volume and Approval/Usage**
    - The green dashed line (Total Applications) fluctuates a bit month to month, it rises/falls with no obvious impact on either of the two amount lines.
    - So even when more customers apply, the approved averages and usage remain unaffected which shows that Snap has a consistent risk filter, and it doesn’t loosen standards just because more people apply.
 
