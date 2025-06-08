@@ -1,6 +1,6 @@
 # Task 1 : Calculate the number of applications, number of approved, and the number of used applications and visualize the trend over the submission date.
 
-![Funnel Chart](./Application_funnel_by_total.png)
+
 ## Why do we need this?
 Being a financing business, our end goal is the customers who used the amount that they had been approved for. Now, to analyze the lifecycle of customer applications from applying, to getting approved, to actually using the financing product. This flow represents a typical **application funnel**, and our job was to uncover how well it's performing.
 
@@ -17,10 +17,9 @@ These two views help answer the most important questions:
 
 
 
-## Visualization 1:  Weekly & Monthly Trend Charts
+## Visualization 1:  Application Funnel Bar Chart
 
-![Funnel Chart](./application_funnel_monthly.png)
-![Funnel Chart](./application_funnel_weekly.png)
+![Funnel Chart](./Application_funnel_by_total.png)
 
 This chart compares:
 - **Total Applications** — customers who applied
@@ -34,11 +33,13 @@ This chart compares:
 - This gap might actually be critical and we might need to explore **why customers are not completing the financing process** it might be due to Gaps in user experience, or users might not be we aware of the next steps, or the lease costs seem to much, or maybe they dont need money anymore? 
 
 
-## Visualization 2: Application Funnel Line Chart
+## Visualization 2: Weekly & Monthly Trend Charts
+![Funnel Chart](./application_funnel_monthly.png)
+![Funnel Chart](./application_funnel_weekly.png)
 
 These line charts show how applications behave **over time** one by **week** and one by **month**.
 
-### Key Insights:
+### What do we notice from these charts?
 - **Weekly Trend** shows short-term fluctuations, these might be reactions of the users based on pay-cycles or our campaigns.
 - **Monthly Trend** smooths this data and shows a consistent flow of applications.
 - Both trends confirm that while **applications and approvals stay steady**, **usage remains much lower** in every time period.
