@@ -27,7 +27,7 @@ This chart compares:
 - **Approved Applications** — those who got approved
 - **Used Applications** — customers who actually used the financing
 
-### Key Insights:
+## What do we see from this chart?
 - There is a clear **funnel drop-off** between each stage.
 - Only around **50% of applicants get approved**. This might be a bummer at first sight but this might not be as bad as it looks. It might show that the company is aware of its risk-rewward ratio. 
 - But another interesting thing we observe here is, **only a small portion of approved customers actually use the product**.
