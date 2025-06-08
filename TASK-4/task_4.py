@@ -8,10 +8,6 @@ from sqlalchemy import create_engine
 
 # I coded the first part in SQL because it was easier to analzye there first on how I want my chart to look
 
-# Set up a connection to the local MySQL database
-engine = create_engine("mysql+pymysql://root:abc1234@localhost:0000/snap_fin")
-conn = engine.connect()
-
 # Load SQL Query and read from .sql file
 with open('/task_4.sql', 'r') as file:
     sql_query = file.read()
