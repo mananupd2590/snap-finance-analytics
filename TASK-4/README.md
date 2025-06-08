@@ -1,8 +1,5 @@
 # Task 4 – Create a view with a graph to compare the used dollars amount by Marketing name, and color by spend amount.
 
-
----
-
 ## Objective
 
 The goal of Task 4 was to evaluate the **performance of marketing campaigns** at Snap Finance in terms of:
@@ -15,7 +12,7 @@ This analysis would help identify **which campaigns are worth scaling**, which a
 
 ---
 
-## 🧠 What Was Done
+## What Was Done
 
 - Used SQL to aggregate key metrics from the `applications`, `customers`, and `marketing` tables.
 - Calculated:
@@ -28,7 +25,7 @@ This analysis would help identify **which campaigns are worth scaling**, which a
 
 ---
 
-## 📊 Visualizations
+## Visualizations
 
 ### 1. Total Spend vs Campaigns
 > Compares the budget invested in each campaign.
