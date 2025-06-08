@@ -39,47 +39,7 @@ df.set_index('submit_date', inplace=True)
 
 
 # -------------------
-# PLOT 1 - Plotting Monthly and Weekly
-#------------------
-
-# Break it down week by week:
-    'application_id': 'count',
-    'approved': lambda x: (x == True).sum(),
-    'dollars_used': lambda x: x.notna().sum()
-}).rename(columns={
-    'application_id': 'total_applications',
-    'approved': 'approved_applications',
-    'dollars_used': 'used_applications'
-})
-
-# Do the same, but month by month for a higher-level view
-monthly_summary = df.resample('M').agg({
-    'application_id': 'count',
-    'approved': lambda x: (x == True).sum(),
-    'dollars_used': lambda x: x.notna().sum()
-}).rename(columns={
-    'application_id': 'total_applications',
-    'approved': 'approved_applications',
-    'dollars_used': 'used_applications'
-})
-
-
-# VISUALIZING WEEKLY TRENDS
-weekly_summary.plot(figsize=(12, 6), title="Weekly Application Trends")
-plt.ylabel("Count")
-plt.xlabel("Week")
-plt.grid(True)
-plt.show()
-
-# VISUALIZING MONTHLY TRENDS
-monthly_summary.plot(figsize=(12, 6), title="Monthly Application Trends")
-plt.ylabel("Count")
-plt.xlabel("Month")
-plt.grid(True)
-plt.show()
-
-# -------------------
-# PLOT 2  Funnel Summary (All Time)
+# PLOT 1  Funnel Summary (All Time)
 #------------------
 
 
@@ -105,5 +65,35 @@ plt.title('Application Funnel at Snap Finance')
 plt.ylabel('Number of Applications')
 plt.xlabel('Funnel Stage')
 plt.grid(axis='y', linestyle='--', alpha=0.7)
+plt.tight_layout()
+plt.show()
+
+
+# -------------------
+# PLOT 2 - Plotting Monthly
+#------------------
+
+# Convert to datetime, just making sure again
+df['submit_date'] = pd.to_datetime(df['submit_date'])
+
+# Set datetime as index
+df = df.set_index('submit_date')  # Important: assign it back!
+
+# Resample monthly and count
+monthly_summary = df.resample('M').agg({
+    'application_id': 'count',
+    'approved': lambda x: (x == True).sum(),
+    'dollars_used': lambda x: x.notna().sum()
+})
+
+# Rename columns for better understanding
+monthly_summary.columns = ['Total Applications', 'Approved Applications', 'Used Applications']
+
+# Plot it
+monthly_summary.plot(title="Monthly Application Trends", figsize=(12, 6), marker='o')
+plt.ylabel("Count")
+plt.xlabel("Month")
+plt.grid(True)
+plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
