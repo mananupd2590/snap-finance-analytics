@@ -2,6 +2,9 @@
 
 ### So what was something interesting I that I found?
 
+![Conversion Rate by Campaign](State_vs_Used_Amount.png)
+
+
 While exploring the dataset, I came across an unexpected trend worth sharing.
 
 We typically expect high-population states like **California**, **Texas**, or **New York** to top the charts in terms of **total dollars used** — but the data told a different story.
