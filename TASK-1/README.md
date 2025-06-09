@@ -2,7 +2,7 @@
 
 ---
 
-### Objective 
+## Objective 
 
 ## Why do we need this?
 Being a financing business, our end goal is the customers who used the amount that they had been approved for. Now, we need to analyze the lifecycle of customer applications from applying, to getting approved, to actually using the financing product. This flow represents a typical **application funnel**, and our job is to uncover how well it's performing.
