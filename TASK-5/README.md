@@ -2,7 +2,7 @@
 
 ### So what was something interesting that I found?
 
-So while I was done working with data in python, I realized, which not load this in tableau and see analyze it there!
+So while I was done working with data in python, I realized, why not load this in tableau and analyze it there!
 And I started looking for interesting patterns, trends or something that could stand out to me. 
 
 While exploring the dataset, I came across some unexpected trends worth sharing. Lets look at them one by one.
