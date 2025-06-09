@@ -1,10 +1,10 @@
 ## Task 3 – Create a table to show possible metrics (e.g. number of applications, number of approved, approved amount, number of used apps, used amount, percentages, etc) by store.
 
 
-### Why SQL First?
+### Why SQL?
 
 While this task could have been done entirely in Python, summarizing relational, grouped data is **much faster and cleaner in SQL**.  
-I created the summary directly in SQL and then read it into Python for downstream visualizations or analysis.
+I created the summary directly in SQL.
 
 This also makes the solution **scalable and reusable** ideal if the table is later connected to a dashboard or used in reporting pipelines.
 
@@ -26,4 +26,4 @@ I created a table called `store_summary` that aggregates store-level application
 
 ---
 
-This SQL-first approach made it easy to clean, transform, and structure the data before doing any visualization in Python.
+This SQL-first approach made it easy to clean, transform, and structure the data.
