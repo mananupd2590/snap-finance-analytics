@@ -36,6 +36,8 @@ This chart compares:
 
 ## What do we see from this chart?
 
+### There is some seasonality around the Jan-Feb time indicating end of holiday season or business slowdown for the stores.
+
 ### The Funnel is Leaky
 - There is a clear **funnel drop-off** between each stage.
 - Only around **50% of applicants get approved**. This might be a bummer at first sight but this might not be as bad as it looks. It might show that the company is aware of its risk-rewward ratio.
