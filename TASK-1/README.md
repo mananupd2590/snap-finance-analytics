@@ -12,8 +12,8 @@ Being a financing business, our end goal is the customers who used the amount th
 ## Why These Visualizations Were Chosen
 Instead of showing too many charts and confusing stakeholders, I focused on **two simple but powerful visualizations**:
 
-1. A **time-based line chart** showing weekly and monthly performance
-2. A **conversion funnel bar chart**
+1. A **conversion funnel bar chart**
+2. A **time-based line chart** showing monthly performance
 
 These two views help answer the most important questions:
 - “**How do our applications trend over time?**”
