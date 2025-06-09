@@ -5,7 +5,7 @@
 While I was done working with data in python and SQL, I realized, why not load this into tableau and analyze it there!
 I started looking for interesting patterns, trends or something that could stand out. 
 
-While exploring the dataset, I came across some unexpected trends worth sharing. Lets look at them one by one.
+While exploring the dataset, I came across some interesting as well as unexpected trends and among all of them, these were the ones worth sharing. Lets look at them one by one.
 
 ## 1. South Dakota is the Biggest Seller
 
