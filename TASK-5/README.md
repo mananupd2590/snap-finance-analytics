@@ -13,7 +13,7 @@ While exploring the dataset, I came across some unexpected trends worth sharing.
 
 We typically expect high-population states like **California**, **Texas**, or **New York** to top the charts in terms of **total dollars used**  but the data told a different story.
 
-### 🌟 States That Outperformed Expectations were States like:
+### States That Outperformed Expectations were States like:
 - **South Dakota**
 - **North Dakota**
 - **Delaware**
@@ -23,13 +23,13 @@ These states showed **exceptionally high usage volume**, despite having **compar
 Meanwhile:
 - **California** and **Texas** usually at the top of everything, ranked surprisingly low in usage amount. Maybe a higher competition from alternative lenders and credit options. 
 
-### 🧐 So What Could This Mean?
+### So What Could This Mean?
 - These states might have **higher customer engagement** or more adoption at the merchant level or Limited access to traditional financing.
 - Or maybe Snap's financing just resonates more strongly with customers in these regions.
 - Could also hint at untapped opportunity **other smaller states might be just as profitable** if approached correctly.
 - Or revising marketing patterns for bigger states and trying a different marketing strategy for them.
 
-### 📌 Final Thought
+### Final Thought
 This isn’t just a fun anomaly. It could be a **lead** for deeper segmentation analysis and strategic marketing focus.  
 Sometimes the best markets aren’t the biggest they’re just the most engaged.
 
