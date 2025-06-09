@@ -25,7 +25,7 @@ I created a table called `store_summary` that aggregates store-level application
 - Easily joins with store metadata (e.g., state, size) for deeper segmentation
 
 ---
-## 🧮 Metrics & Formulas (Mathematical Notation)
+## Metrics & Formulas (Mathematical Notation)
 
 This section outlines all the key calculations used to generate the store-level summary table.
 
