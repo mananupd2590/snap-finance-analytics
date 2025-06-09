@@ -50,8 +50,6 @@ The top performer wasn’t the biggest it was the **Medium-sized stores**.
 - **Small** – Respectable **$8.2 million**
 - **Enterprise** – Only **$2.8 million**, despite being ‘large’
 
----
-
 ### What Might Be Happening Here?
 
 - **Medium Stores: Snap’s Sweet Spot**
@@ -63,15 +61,12 @@ The top performer wasn’t the biggest it was the **Medium-sized stores**.
 - **Enterprise Stores: Underdelivering**
   - Likely selling **higher-ticket items** that exceed Snap’s current cap. These stores may have access to **other financing partners** or in-house credit options.
 
----
 
 ### Strategic Signals
 
 - **Loan Amount Matters:** Since loans max out at ~$5,000, store categories selling within this range are naturally better performers.
 - This doesnt mean we cannot capitalize on Enterprise stores. Maybe a person buying a new car might need snap finance to add new accessories. 
 - But apart from that, **Medium is the Moment:** If we're thinking of scaling reach, **doubling down on medium-sized stores** seems like a data-backed move.
-
----
 
 ### Final Thought
 This analysis shows sometimes, it’s not about going big it’s about going **relevant**.
@@ -84,7 +79,6 @@ This analysis shows sometimes, it’s not about going big it’s about going **r
 
 When grouped by industry, **Healthcare**, **Transportation**, and **Hospitality** emerged as the **top 3 verticals** driving Snap usage.
 
----
 
 ### Quick Observations
 
@@ -95,14 +89,12 @@ When grouped by industry, **Healthcare**, **Transportation**, and **Hospitality*
   - Presence of in-house or commercial financing alternatives
   - Less urgent or infrequent purchases
 
----
 
 ### What This Tells Us
 
 - Snap usage spikes where purchases are **urgent**, **mid-ticket**, and **consumer-facing**.
 - This chart can help **prioritize onboarding efforts** into industries with untapped potential but similar purchase behavior.
 
----
 
 ### Final Thought
 
@@ -114,14 +106,11 @@ When grouped by industry, **Healthcare**, **Transportation**, and **Hospitality*
 
 ![Lease Grade vs Approved Amount](lease_grade_vs_approved_amount.png)
 
----
-
 ### What do we see here?
 
 - Grades **A, B, and C** dominate approvals each hitting over **$33M+** in total approved amounts.
 - Grades **D and F**? Practically **non-existent** maybe blocked or auto-rejected by Snap's credit policies.
 
----
 
 ### Why This Matters
 
@@ -132,7 +121,6 @@ When grouped by industry, **Healthcare**, **Transportation**, and **Hospitality*
 
 ![Time of the Day vs Application Count](time_of_day_applications.jpeg)
 
----
 
 ### Key Takeaway
 
@@ -140,16 +128,12 @@ When grouped by industry, **Healthcare**, **Transportation**, and **Hospitality*
 - **Morning** is next.
 - **Afternoon & Evening** show relatively very less applicants.
 
----
 
 ### What This Means for Snap?
 
 - If the company is planning campaign pushes or merchant nudges **go heavy at night**.
 - Customers seem most active **after hours**, possibly when they’re home, relaxed, and thinking about purchases or repairs.
 - This opens up strategic timing for ads, email, or push campaigns to **maximize conversion impact**.
-
----
----
 
 ---
 
