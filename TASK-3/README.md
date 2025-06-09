@@ -25,5 +25,16 @@ I created a table called `store_summary` that aggregates store-level application
 - Easily joins with store metadata (e.g., state, size) for deeper segmentation
 
 ---
+## 🧮 Metrics & Formulas (Mathematical Notation)
+
+This section outlines all the key calculations used to generate the store-level summary table.
+
+| **Metric**                  | **Formula**                                                                                     |
+|----------------------------|--------------------------------------------------------------------------------------------------|
+| **Used % of Approved**     | $\left( \frac{\text{Used Amount}}{\text{Total Approved Amount}} \right) \times 100$             |
+| **Approval Rate**          | $\left( \frac{\text{Approved Applications}}{\text{Total Applications}} \right) \times 100$      |
+| **Used Rate**              | $\left( \frac{\text{Used Applications}}{\text{Approved Applications}} \right) \times 100$       |
+| **Avg Approved Amount**    | $\frac{\text{Total Approved Amount}}{\text{Approved Applications}}$                             |
+---
 
 This SQL-first approach made it easy to clean, transform, and structure the data.
