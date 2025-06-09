@@ -2,8 +2,8 @@
 
 ### So what was something interesting that I found?
 
-So while I was done working with data in python, I realized, why not load this in tableau and analyze it there!
-So, I started looking for interesting patterns, trends or something that could stand out. 
+While I was done working with data in python and SQL, I realized, why not load this into tableau and analyze it there!
+I started looking for interesting patterns, trends or something that could stand out. 
 
 While exploring the dataset, I came across some unexpected trends worth sharing. Lets look at them one by one.
 
@@ -126,7 +126,7 @@ When grouped by industry, **Healthcare**, **Transportation**, and **Hospitality*
 
 - **Night dominates**, over **21.8K applications** came through after 9 PM.
 - **Morning** is next.
-- **Afternoon & Evening** show relatively very less applicants.
+- **Afternoon & Evening** show relatively less applicants.
 
 
 ### What This Means for Snap?
